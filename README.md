@@ -14,16 +14,28 @@ Soy un apasionado desarrollador de software con experiencia en el desarrollo web
 
 ### 🌟 Proyectos Destacados
 
-#### [Nombre del Proyecto 1]
-- Breve descripción del proyecto
+#### [Biblioteca Escolar Virtual | Rescatando culturas]
+- Plataforma web educativa para gestionar y preservar recursos culturales y literarios
+- Permite a estudiantes y profesores acceder a libros digitales, documentos históricos y contenido multimedia
+- Incluye sistema de préstamos virtuales, reseñas y recomendaciones
+- Sección especial dedicada a la preservación de tradiciones y saberes ancestrales
+- Interfaz intuitiva con búsqueda avanzada y categorización de contenidos
 
-- Tecnologías utilizadas
-- [Código fuente](url)
+- Tecnologías utilizadas: PHP, JavaScript, HTML, CSS
 
-#### [Nombre del Proyecto 2]
-- Breve descripción del proyecto
-- Tecnologías utilizadas
-- [Código fuente](url)
+- [Código fuente no publico]
+
+#### [Invernadero Inteligente | ViveroDomotics]
+- Sistema automatizado para monitoreo y control de invernaderos
+- Sensores IoT para medición de temperatura, humedad y luz
+- Control remoto de riego y ventilación mediante aplicación web
+- Alertas y notificaciones en tiempo real
+- Generación de reportes y estadísticas de crecimiento
+- Optimización del consumo de recursos y mejora en la producción
+
+- Tecnologías utilizadas: JavaScript, PHP, C++, HTML, CSS, Python
+
+- [Código fuente no publico]
 
 ### 📫 Contacto
 
@@ -36,4 +48,4 @@ Soy un apasionado desarrollador de software con experiencia en el desarrollo web
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Juanelc4734k&show_icons=true&theme=radical)
 
 ---
-⭐️ De [tu-usuario](https://github.com/Juanelc4734k)
+⭐️ De [Juanelc4734k](https://github.com/Juanelc4734k)
